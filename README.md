@@ -1,5 +1,5 @@
 
-# Minimal Chatbot Code - Project README
+# Healthcare Realtime RAG-Chatbot Code - Project README
 
 ## Overview
 
@@ -169,8 +169,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 If you have any questions or need help getting started, feel free to reach out!
 
-**Email**: [your_email@example.com]  
-**GitHub**: [your_github_username]
+**Email**: [siruspoly@mitacs.com]  
+
 
 ---
 
