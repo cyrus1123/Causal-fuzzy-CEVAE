@@ -171,7 +171,3 @@ If you have any questions or need help getting started, feel free to reach out!
 
 **Email**: [siruspoly@mitacs.com]  
 
-
----
-
-Happy coding! 😊
