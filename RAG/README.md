@@ -1,5 +1,5 @@
 
-# Minimal Chatbot Code - Project README
+#Healthcare Realtime RAG-Chatbot Code - Project README
 
 ## Overview
 
